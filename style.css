@@ -1,0 +1,10 @@
+    body {
+        background: black;
+    }
+    
+    #show{
+        background: green;
+        width: 10%;
+        height: 100%;
+    }
+
